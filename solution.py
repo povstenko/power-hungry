@@ -1,2 +1,2 @@
-def solution(s):
-    #Code
+def solution(xs):
+    # Your code here
